@@ -1,5 +1,8 @@
-package test;
+package abstractFactory;
 
+import main.abstractFactory.restaurant.CoffeeShop;
+import main.abstractFactory.restaurant.FastFood;
+import main.abstractFactory.restaurant.Restaurant;
 import org.junit.Assert;
 import org.junit.Test;
 
